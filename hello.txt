@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 0C7C-0E3E
+
+ Directory of D:\Java program
+
+18-12-2025  14:54    <DIR>          .
+18-12-2025  14:52               900 Hello.class
+15-12-2025  10:36               157 Hello.java
+18-12-2025  14:54                 0 hello.txt
+18-12-2025  14:42               389 readme.txt
+               4 File(s)          1,446 bytes
+               1 Dir(s)  230,009,114,624 bytes free
